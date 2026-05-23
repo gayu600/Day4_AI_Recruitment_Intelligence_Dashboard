@@ -119,7 +119,7 @@ This page summarizes business insights and strategic recommendations.
 
 ---
 
-# Dashboard Preview
+# Dashboard of preview
 
 ## Recruitment Overview Dashboard
 
