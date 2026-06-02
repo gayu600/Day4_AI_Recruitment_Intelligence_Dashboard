@@ -17,7 +17,7 @@ The goal of this project is to create a professional HR analytics system that he
 - Python
 - Pandas
 - NumPy
-- Data Cleaning
+- Data Cleaning 
 - Business Intelligence
 - KPI Analysis
 - Dashboard Design
