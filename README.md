@@ -1,4 +1,4 @@
-# Day 4 - AI Recruitment Intelligence Dashboard
+# Day 4 - AI Recruitment Intelligence Dashboard 
 
 ## Project Overview
 
