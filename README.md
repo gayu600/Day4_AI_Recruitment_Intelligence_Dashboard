@@ -51,7 +51,7 @@ This page provides an overview of the recruitment process using KPIs and busines
 
 ### KPIs Included
 
-- Total Candidates
+- Total Candidates 
 - Selected Candidates
 - Rejected Candidates
 - Average Interview Score
