@@ -11,7 +11,7 @@ The goal of this project is to create a  professional HR analytics system that h
 
 ---
 
-# Tools & Technologies used
+# Tools & Technologies used 
 
 - Power BI
 - Python
