@@ -78,7 +78,7 @@ This page focuses on candidate-level intelligence and profile analysis.
 - Candidate Distance Distribution
 - Previous Company Experience Analysis
 - Hiring Decision by Education Level
-- Candidate Intelligence Insights
+- Candidate Intelligence Insights 
 
 ---
 
