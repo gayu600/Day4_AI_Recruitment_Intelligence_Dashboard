@@ -7,7 +7,7 @@ This project is part of my **31 Days Data  Analytics & Data Science Challengs**.
 
 In this project, I built an **AI Recruitment Intelligence Dashboard** using **Power BI, Python, and Data Analytics** techniques to analyze recruitment patterns, candidate hiring trends, interview performance,skill analysis, personality evaluation, education distribution, and recruitment strategies.
 
-The goal of this project is to create a  professional HR analytics system that helps understand candidate recruitment behavior and hiring intelligenc using business analytics and dashboard storytelling.
+The goal of this project is to create a  professional HR analytics system that helps understand candidate recruitment behavior and hiring intelligenc using business analytics and dashboard storytelling .
 
 ---
 
