@@ -89,7 +89,7 @@ This page summarizes business insights and strategic recommendations.
 ### Insights Included
 
 - Recruitment strategy effectiveness
-- Candidate quality trends
+- Candidate quality trends 
 - Hiring behavior analysis
 - Experience and performance analysis
 - Business recommendations for recruitment improvement
